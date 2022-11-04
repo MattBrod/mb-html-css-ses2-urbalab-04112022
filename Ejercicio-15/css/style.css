@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+#abc {
+    list-style: lower-alpha;
+}
+
+#romano {
+    list-style: upper-roman;
+}
