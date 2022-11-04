@@ -1,0 +1,27 @@
+table {
+    background-image: url(../assets/texture.jpg);
+    box-shadow: 2px 2px 1px rgb(0, 0, 0);
+}
+
+table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    color: brown;
+}
+
+#title {
+    background-color: rgb(101, 145, 101);
+}
+
+#hnaranja {
+    background-color: rgb(252, 203, 113);
+}
+
+#hamarillo {
+    background-color: rgb(247, 247, 130);
+}
+
+#texture {
+    text-shadow: 0 0 2px white, 0 0 2px white, 0 0 2px white, 0 0 2px white;
+}
