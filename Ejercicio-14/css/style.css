@@ -10,6 +10,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background-image: url(../assets/penguin.jpg);
 }
 
 table {
@@ -18,6 +19,7 @@ table {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    box-shadow: 2px 2px 1px rgb(0, 0, 0);
 }
 
 td {
