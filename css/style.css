@@ -1,0 +1,26 @@
+table {
+    border: 1px solid rgb(107, 107, 235);
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 2px solid rgb(107, 107, 235);
+    margin: 0;
+}
+
+#head {
+    color: rgb(187, 216, 130);
+    background-color: rgb(10, 86, 10);
+}
+
+#light-green {
+    background-color: rgb(187, 216, 130);
+}
+
+#dark-green {
+    background-color: rgb(98, 156, 98);
+}
+
+
+
+/* tr, td, th */
