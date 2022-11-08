@@ -3,7 +3,9 @@
 MATEUSZ BRODZIK
 
 ## Retos
-[Ejercicio 11-12](https://mattbrod.github.io/mb-html-css-ses2-urbalab-04112022/deportes/)
+[Ejercicio 11](https://mattbrod.github.io/mb-html-css-ses2-urbalab-04112022/deportes/donde2.html)
+
+[Ejercicio 12](https://mattbrod.github.io/mb-html-css-ses2-urbalab-04112022/deportes/instalaciones.html)
 
 [Ejercicio 13](https://mattbrod.github.io/mb-html-css-ses2-urbalab-04112022/Ejercicio-13/)
 
